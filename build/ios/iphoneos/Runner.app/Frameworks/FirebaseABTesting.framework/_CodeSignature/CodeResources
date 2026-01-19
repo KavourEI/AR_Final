@@ -4,44 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>FirebaseABTesting_Privacy.bundle/Info.plist</key>
-		<data>
-		/jMS4v4UdHgrnWUbMI0WQPoGHFQ=
-		</data>
-		<key>FirebaseABTesting_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		6iBlSEWzrD6zouHx4NqeDhjKSGQ=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		J0nHsq2vPvSJEnW8DARsE4gb4YA=
+		lwsoPQQ65hX57TkMzNRqcvwgPQk=
 		</data>
 	</dict>
 	<key>files2</key>
-	<dict>
-		<key>FirebaseABTesting_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/jMS4v4UdHgrnWUbMI0WQPoGHFQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			4dTOfZtZqthGeddsUVGD5Ltq/Cx9I+z2dr3OltH/rd8=
-			</data>
-		</dict>
-		<key>FirebaseABTesting_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6iBlSEWzrD6zouHx4NqeDhjKSGQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			E3fszt/4+DIPeAQOnJ0+F+zA6laVlLVq8O8XvkQZfHo=
-			</data>
-		</dict>
-	</dict>
+	<dict/>
 	<key>rules</key>
 	<dict>
 		<key>^.*</key>

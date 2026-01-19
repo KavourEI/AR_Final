@@ -362,11 +362,12 @@ class _ARViewPageState extends State<ARViewPage> {
         // localGLTF2 does NOT support .glb files - only .gltf format
         const modelUri = "assets/models/tikiLast002.glb";
         
-        // Add 3D model from local assets
+        // Add 3D model from local assets with consistent base scale
+        double baseScale = 1.0; // Base scale for the model
         var newNode = ARNode(
           type: NodeType.localGLTF2,
           uri: modelUri,
-          scale: vector.Vector3(1 * _scaleFactor, 1 * _scaleFactor, 1 * _scaleFactor),
+          scale: vector.Vector3(baseScale * _scaleFactor, baseScale * _scaleFactor, baseScale * _scaleFactor),
           position: vector.Vector3(0.0, 0.0, 0.0),
           rotation: vector.Vector4(1.0, 0.0, 0.0, 0.0),
         );
@@ -508,8 +509,8 @@ class _ARViewPageState extends State<ARViewPage> {
 
   void _scaleNode(ARNode node, double scaleFactor) {
     try {
-      // Base scale for the duck model
-      double baseScale = 0.02;
+      // Base scale for the model - matches initial placement scale
+      double baseScale = 1.0;
       double newScale = baseScale * scaleFactor;
       
       // Update the node's scale directly

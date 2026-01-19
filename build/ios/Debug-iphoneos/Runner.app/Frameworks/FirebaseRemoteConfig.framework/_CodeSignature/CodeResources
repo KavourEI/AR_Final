@@ -4,44 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>FirebaseRemoteConfig_Privacy.bundle/Info.plist</key>
-		<data>
-		IbfDAbxG2ek2ISqAjTBpQb8IiEQ=
-		</data>
-		<key>FirebaseRemoteConfig_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		d5TrxX2hDOtdNvhoYFOugI0nBHU=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		YPRl4HeRH5jKyvJk6ZZtl1lOVgg=
+		pzN4/Ub46KSiJeFPG6VKN6bsnuo=
 		</data>
 	</dict>
 	<key>files2</key>
-	<dict>
-		<key>FirebaseRemoteConfig_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IbfDAbxG2ek2ISqAjTBpQb8IiEQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			Dv0WzTh2n9tUMTJxzfvV6THenbABItOF7KuazIxWGJg=
-			</data>
-		</dict>
-		<key>FirebaseRemoteConfig_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			d5TrxX2hDOtdNvhoYFOugI0nBHU=
-			</data>
-			<key>hash2</key>
-			<data>
-			ucNgtbtY3bGOq1KC6kyBReH3rQ3hRWORarmlpCD+Tzg=
-			</data>
-		</dict>
-	</dict>
+	<dict/>
 	<key>rules</key>
 	<dict>
 		<key>^.*</key>

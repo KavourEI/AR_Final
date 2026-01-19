@@ -6,42 +6,11 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		tGZqW8dM8PZMJaAFarZaVTMwFuU=
-		</data>
-		<key>nanopb_Privacy.bundle/Info.plist</key>
-		<data>
-		KMAB3K8XPANnCweaMGptP6NyMHs=
-		</data>
-		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		KY5lfwC2TvsgFj4wt7hkMmainbs=
+		Q75c4MwpEwN0zDYQUP955GQ4S2k=
 		</data>
 	</dict>
 	<key>files2</key>
-	<dict>
-		<key>nanopb_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KMAB3K8XPANnCweaMGptP6NyMHs=
-			</data>
-			<key>hash2</key>
-			<data>
-			bMEeYx1TdK5gVsmFNpcfXiNQRmHuTL6sLuObLFaK9hc=
-			</data>
-		</dict>
-		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KY5lfwC2TvsgFj4wt7hkMmainbs=
-			</data>
-			<key>hash2</key>
-			<data>
-			cpujy9D0WMeM1h7fFzUO2v4ONMqG4xTsZMjLIszSG1Q=
-			</data>
-		</dict>
-	</dict>
+	<dict/>
 	<key>rules</key>
 	<dict>
 		<key>^.*</key>
